@@ -85,15 +85,15 @@
 	{
 		"name": "Sci-Hub DOI",
 		"alias": "Sci-Hub DOI",
-		"icon": "http://sci-hub.tw/favicon.ico",
-		"_urlTemplate": "http://sci-hub.tw/{z:DOI}",
+		"icon": "http://sci-hub.wf/favicon.ico",
+		"_urlTemplate": "http://sci-hub.wf/{z:DOI}",
 		"description": "SciHub Lookup Lookup",
 		"hidden": false,
 		"_urlParams": [],
 		"_urlNamespaces": {
 			"z": "http://www.zotero.org/namespaces/openSearch#"
 		},
-		"_iconSourceURI": "http://sci-hub.tw/favicon.ico"
+		"_iconSourceURI": "http://sci-hub.wf/favicon.ico"
 	},
 	{
 		"name": "Sci-Hub URL",
