@@ -56,6 +56,19 @@
     },
     "_iconSourceURI": "https://elicit.org/favicon.ico"
   },
+  {
+    "name": "Semantic Scholar",
+    "alias": "Semantic Scholar",
+    "icon": "https://www.semanticscholar.org/favicon.ico",
+    "_urlTemplate": "https://www.semanticscholar.org/search?q={z:title}",
+    "description": "Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows.",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#"
+    },
+    "_iconSourceURI": "https://www.semanticscholar.org/favicon.ico"
+  },
 	{
 		"name": "Unpaywall",
 		"alias": "Unpaywall",
