@@ -43,6 +43,19 @@
 		},
 		"_iconSourceURI": "http://blogs.bellevue.edu/library/wp-content/uploads/2014/04/ghat.png"
 	},
+  {
+    "name": "Elicit",
+    "alias": "Elicit",
+    "icon": "https://elicit.org/favicon.ico",
+    "_urlTemplate": "https://elicit.org/search?q={z:title}",
+    "description": "Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows.",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#"
+    },
+    "_iconSourceURI": "https://elicit.org/favicon.ico"
+  },
 	{
 		"name": "Unpaywall",
 		"alias": "Unpaywall",
