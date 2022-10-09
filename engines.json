@@ -58,6 +58,21 @@
 		"_iconSourceURI": "http://blogs.bellevue.edu/library/wp-content/uploads/2014/04/ghat.png"
 	},
   {
+    "name": "Google Books",
+    "alias": "Google Books",
+    "icon": "https://news-cdn.softpedia.com/images/news2/Download-Free-Google-Books-1-1-0-2247-iOS-iPad-Landscape-Mode-Find-Feature-2.jpg",
+    "_urlTemplate": "https://www.google.com/search?tbm=bks&q={z:title}",
+    "description": "Google Books",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "rft": "info:ofi/fmt:kev:mtx:journal",
+      "z": "http://www.zotero.org/namespaces/openSearch#",
+      "": "http://a9.com/-/spec/opensearch/1.1/"
+    },
+    "_iconSourceURI": "https://news-cdn.softpedia.com/images/news2/Download-Free-Google-Books-1-1-0-2247-iOS-iPad-Landscape-Mode-Find-Feature-2.jpg"
+  },
+  {
     "name": "Elicit",
     "alias": "Elicit",
     "icon": "https://elicit.org/favicon.ico",
