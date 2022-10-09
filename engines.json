@@ -13,6 +13,20 @@
     },
     "_iconSourceURI": "http://lu.se/themes/custom/lu_theme/favicon.ico"
   },
+  {
+    "name": "Twente Off Campus",
+    "alias": "Twente Off Campus",
+    "icon": "https://www.utwente.nl/favicon.ico",
+    "_urlTemplate": "https://ezproxy2.utwente.nl/login?qurl=https://doi.org/{z:DOI}",
+    "description": "Twente Off Campus",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#",
+      "": "http://a9.com/-/spec/opensearch/1.1/"
+    },
+    "_iconSourceURI": "https://www.utwente.nl/favicon.ico"
+  },
 	{
 		"name": "CrossRef Title",
 		"alias": "CrossRef Title",
