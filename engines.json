@@ -1,4 +1,18 @@
 [
+  {
+    "name": "Lund Off Campus",
+    "alias": "Lund Off Campus",
+    "icon": "https://www.lu.se/themes/custom/lu_theme/favicon.ico",
+    "_urlTemplate": "http://ludwig.lub.lu.se/login?url=https://doi.org/{z:DOI}",
+    "description": "Lund Off Campus",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#",
+      "": "http://a9.com/-/spec/opensearch/1.1/"
+    },
+    "_iconSourceURI": "http://lu.se/themes/custom/lu_theme/favicon.ico"
+  },
 	{
 		"name": "CrossRef Title",
 		"alias": "CrossRef Title",
