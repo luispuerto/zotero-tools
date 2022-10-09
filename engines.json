@@ -1,10 +1,10 @@
 [
 	{
-		"name": "CrossRef",
-		"alias": "CrossRef",
+		"name": "CrossRef Title",
+		"alias": "CrossRef Title",
 		"icon": "https://www.crossref.org/favicon.ico",
-		"_urlTemplate": "http://crossref.org/openurl?{z:openURL}&pid=zter:zter321",
-		"description": "CrossRef Search",
+		"_urlTemplate": "https://search.crossref.org/?q={z:title}&from_ui=yes",
+		"description": "CrossRef Search Title",
 		"hidden": false,
 		"_urlParams": [],
 		"_urlNamespaces": {
@@ -13,6 +13,20 @@
 		},
 		"_iconSourceURI": "http://crossref.org/favicon.ico"
 	},
+  {
+    "name": "CrossRef DOI",
+    "alias": "CrossRef DOI",
+    "icon": "https://www.crossref.org/favicon.ico",
+    "_urlTemplate": "https://search.crossref.org/?q={z:DOI}&from_ui=yes",
+    "description": "CrossRef Search DOI",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#",
+      "": "http://a9.com/-/spec/opensearch/1.1/"
+    },
+    "_iconSourceURI": "http://crossref.org/favicon.ico"
+  },
 	{
 		"name": "Google Scholar",
 		"alias": "Google Scholar",
